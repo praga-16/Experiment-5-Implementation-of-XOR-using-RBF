@@ -71,6 +71,10 @@ bias edge
 
 ## PROGRAM:
 ```
+NAME : PRAGATHEESVARAN A B
+REG NO : 212221240039
+```
+```python
 import numpy as np
 import matplotlib.pyplot as plt
 import tensorflow as tf
